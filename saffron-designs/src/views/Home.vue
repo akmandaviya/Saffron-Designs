@@ -1,5 +1,5 @@
 <template lang='pug'>
-    p hello
+    p hello from saffron designs
 </template>
 
 <script>
