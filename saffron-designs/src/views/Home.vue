@@ -1,6 +1,7 @@
 <template lang='pug'>
-    p hello from saffron designs
+  NavBar
 </template>
 
-<script>
+<script setup>
+  import NavBar from '../components/NavBar.vue';
 </script>
